@@ -278,4 +278,4 @@ onShareAppMessage: function onShareAppMessage() {
 https://github.com/Mr-Mei/-bilibili
 
 ##最后要说的话
-本人属于初学者阶段，技术方面尚未成熟，还有很多要学的地方，项目中是否不足之处，还请多多见谅，也欢迎大佬违规指教！！！！！
+本人属于初学者阶段，技术方面尚未成熟，还有很多要学的地方，项目中是否不足之处，还请多多见谅，也欢迎大佬指教！！！
